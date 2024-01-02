@@ -35,7 +35,7 @@ public class MainActivity2 extends AppCompatActivity {
 
 
             txtCategoria.setText("Categoría: " + categoria);
-            txtPrecio.setText("Total a Pagar " + precio);
+            txtPrecio.setText("Total a Pagar: " + precio);
             txtTitulo.setText(titulo);
 
             // Cargar la imagen en el ImageView utilizando Picasso
